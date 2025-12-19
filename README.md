@@ -16,7 +16,7 @@ Copyright (c) 2023 Sabin Padurariu
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┗┛┗┛┗┛┗━━━┛━━━━━━┗┛━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# **State Search and Machine Learning Algorithms**
+# **Machine Learning Projects**
 
 A collection of algorithms, games and datasets that showcase
 the basic and fundamental ideas behind artificial intelligence. 
